@@ -1,0 +1,16 @@
+@media (max-height: 500px) {
+	body {
+		background-color: orange;
+	}
+}
+@media (max-height: 300px) {
+	body {
+		background-color: black;
+	}
+}
+
+@media (max-width: : 150px) {
+	body {
+		background-color: gold;
+	}
+}
